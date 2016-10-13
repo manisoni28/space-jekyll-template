@@ -1,17 +1,17 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Hack-Them
+description: "A blog for Hacking Lovers ..."
 baseurl: "/space-jekyll-template" # the subpath of your site
 url: "http://manisoni28.github.io"
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
+username: mani soni
+user_title: Hack Them  - FrontEnd
+email: appic.dev@gmail.com
 twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+github_username:  manisoni28
+gplus_username:  appic.dev@gmail.com
+disqus_username: appic.dev@gmail.com
 
 # Build settings
 markdown: kramdown
